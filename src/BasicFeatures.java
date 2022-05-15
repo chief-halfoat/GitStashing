@@ -5,4 +5,5 @@ public class BasicFeatures {
     String doors;
     String headlights;
     String regNo;
+
 }
